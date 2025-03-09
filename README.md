@@ -1,5 +1,8 @@
 # Student-Grade-Management-API
 
+Student: Charmaine Rianne Bordario
+Section: BSIT II - B
+
 Create a Student Grade Management API. The API should allow students to be added with their exam scores, and it should calculate their final grade and determine if they have passed.  
 Grade Calculation: The final grade is calculated as:
 Final Grade=(0.4×Midterm Score)+(0.6×Final Score)
@@ -18,5 +21,3 @@ PHP
 MySQL
 Composer
 Xampp
-
-Student: Charmaine Rianne Bordario
