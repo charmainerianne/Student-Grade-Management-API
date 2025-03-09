@@ -1,6 +1,7 @@
 # Student-Grade-Management-API
 
-Student: Charmaine Rianne Bordario
+Student: Charmaine Rianne Q. Bordario
+
 Section: BSIT II - B
 
 Create a Student Grade Management API. The API should allow students to be added with their exam scores, and it should calculate their final grade and determine if they have passed.  
